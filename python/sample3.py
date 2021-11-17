@@ -1,0 +1,12 @@
+a=int(input("enter num1:"))
+b=int(input("enter num2:"))
+c=a+b
+d=a*b
+e=a-b
+f=a/b
+rem=a%b
+print("c = "+str(c))
+print("d = "+str(d))
+print("e = "+str(e))
+print("f = "+str(f))
+print("reminder = "+str(rem))
